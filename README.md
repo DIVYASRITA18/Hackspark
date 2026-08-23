@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🛡️ ScamCheck — AI Placement & Recruitment Fraud Verification
+ScamCheck is an AI-powered verification platform designed to protect students and early-career jobseekers from predatory employment scams, advance-fee fraud, fake offer letters, and spoofed recruitment drives.
+📌 Key Features
+🔍 Multi-Modal Forensic Analyzer: Upload offer letters, WhatsApp screenshots, or job text to scan for 20+ fraud vectors (advance fees, fake emails, inflated salaries, missing interview rounds) using Gemini OCR and vision intelligence.
+🤖 Interactive Honeybot Simulator: Practice spotting scam red flags in real-time chat simulations against realistic scam bot archetypes with live defensive coaching.
+🏛️ National Cybercrime Dossier Generator: 1-click generation of formal police and bank complaint reports adhering to the National Cyber Crime Reporting Portal (1930 / cybercrime.gov.in) format.
+💬 Safe Verification Response Templates: Instant scripts to challenge suspicious recruiters for official Job Requisition IDs and corporate domain emails.
+📚 Threat Intelligence Feed: Curated registry of known fraudulent recruiter networks and downloadable placement cell advisory bulletins.
+🛠️ Tech Stack
+Frontend: React 18, Vite, Tailwind CSS, Lucide React, Framer Motion
+Backend: Node.js, Express, TypeScript
+AI & Vision: Google Gemini Flash SDK (@google/genai)
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8e3edb40-0163-4fa3-8835-99be8d364c64
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+For running click : https://hackspark-rb28.onrender.com/
