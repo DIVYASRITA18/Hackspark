@@ -1,0 +1,8 @@
+{
+  "name": "ScamCheck - Opportunity Verification",
+  "description": "Analyzes student job and internship offers received via WhatsApp, email, social media, and SMS to calculate risk scores and highlight red flag indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
